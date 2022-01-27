@@ -1,11 +1,7 @@
 # Your project title
 
-A short description.
+Introductory project on Unity
 
 ## Technical setup instructions
 
-Some special setup requirements. 
-
-## Special controls 
-
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+Visual Studio Code for the Scripting
